@@ -1,0 +1,14 @@
+{
+  "name": "tianyu-writing-skills-marketplace",
+  "owner": {
+    "name": "Tianyu Chen",
+    "email": "tianyuchen@utexas.edu"
+  },
+  "plugins": [
+    {
+      "name": "tianyu-writing-skills",
+      "source": "./",
+      "description": "Tianyu's private writing skill for AI conference papers, distilled from hzwer/WritingAIPaper."
+    }
+  ]
+}

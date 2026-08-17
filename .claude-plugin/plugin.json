@@ -1,0 +1,9 @@
+{
+  "name": "tianyu-writing-skills",
+  "description": "Tianyu's private writing skill for AI conference papers, distilled from hzwer/WritingAIPaper: core-idea framing, paper structure, introduction formula, readability rules, submission checklists, and self-review against common reviewer complaints.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tianyu Chen",
+    "email": "tianyuchen@utexas.edu"
+  }
+}
